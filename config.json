@@ -65,6 +65,13 @@
       "description": "Create a RESTful API in Python using FastAPI, including routing, validation, and error handling.",
       "path": "assignments/building-rest-apis-with-fastapi",
       "dueDate": "2026-07-15"
+    },
+    {
+      "id": "building-database-backed-apis-with-sqlalchemy",
+      "title": "Building Database-Backed APIs with SQLAlchemy",
+      "description": "Connect FastAPI to SQLite using SQLAlchemy and build CRUD endpoints with persisted data.",
+      "path": "assignments/building-database-backed-apis-with-sqlalchemy",
+      "dueDate": "2026-07-30"
     }
   ]
 }
